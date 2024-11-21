@@ -1713,10 +1713,6 @@ video {
     width: 9.763rem;
   }
 
-  .mq-500\:w-\[300px\] {
-    width: 300px;
-  }
-
   .mq-500\:flex-col {
     flex-direction: column;
   }
@@ -1737,18 +1733,6 @@ video {
 @media (max-width: 600px) {
   .mq-600\:h-\[12rem\] {
     height: 12rem;
-  }
-
-  .mq-600\:w-\[400px\] {
-    width: 400px;
-  }
-
-  .mq-600\:w-\[350px\] {
-    width: 350px;
-  }
-
-  .mq-600\:w-\[330px\] {
-    width: 330px;
   }
 
   .mq-600\:w-\[320px\] {
@@ -1793,10 +1777,6 @@ video {
 }
 
 @media (max-width: 360px) {
-  .mq-360\:ml-4 {
-    margin-left: 1rem;
-  }
-
   .mq-360\:ml-10 {
     margin-left: 2.5rem;
   }
